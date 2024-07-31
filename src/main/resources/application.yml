@@ -1,8 +1,0 @@
-server:
-  port: 8888
-  servlet:
-    context-path: /fable
-
-spring:
-  application:
-    name: fable
